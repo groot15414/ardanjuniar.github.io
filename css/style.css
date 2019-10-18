@@ -1,0 +1,11 @@
+.gambar {
+    height: 67px;
+    width: 80px;
+}
+
+@media (min-width: 1200px) {
+    .gambar {
+        height: 157px;
+        width: 157px;
+    }
+}
